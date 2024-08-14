@@ -12,3 +12,5 @@ A. uji coba rest-api
 4. api-update
 ![image](https://github.com/user-attachments/assets/1a3583ad-a43a-4f8d-87c2-304dda973836)
 
+5. api-delete
+![image](https://github.com/user-attachments/assets/b4e25285-1000-4f5f-9ec4-61d3b7691bf8)
