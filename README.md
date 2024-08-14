@@ -7,4 +7,8 @@ A. uji coba rest-api
 ![image](https://github.com/user-attachments/assets/3e163953-db5b-4af9-acc5-93a1c1b982c5)
 
 3. api-show
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a6033d52-36de-48cf-8774-368cf7cbf123)
+
+4. api-update
+![image](https://github.com/user-attachments/assets/1a3583ad-a43a-4f8d-87c2-304dda973836)
+
