@@ -5,3 +5,6 @@ A. uji coba rest-api
 
 2. api-insert
 ![image](https://github.com/user-attachments/assets/3e163953-db5b-4af9-acc5-93a1c1b982c5)
+
+3. api-show
+![Uploading image.png…]()
